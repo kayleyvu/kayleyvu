@@ -1,9 +1,14 @@
 # Hi, I’m @kayleyvu
 I'm a digital product designer :woman_technologist:
 
-## How to reach me 
+## My work 
+* Passionate about creating intuitive user experiences for fintech, healthcare, and leisure. 
 * Take a look at my work on my [portfolio](https://kayleytvu.com).
-* Email me at kayleytvu@gmail.com 
+
+## How to reach me 
+Email me at kayleytvu@gmail.com
+[![LinkedIn](https://img.shields.io/badge/Click%20me-Button-blue)](https://www.linkedin.com/in/kayley-vu/)
+
 
 
 <!---
