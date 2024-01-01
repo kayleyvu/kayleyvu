@@ -4,6 +4,8 @@
 - 📫 Reach me at kayleytvu@gmail.com or connect with me at https://www.linkedin.com/in/kayley-vu/
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/kayley-vu/)
+&nbsp;
+[![Email](:e-mail:) GitHub](mailto:kayleytvu@gmail.com)
 
 <!---
 kayleyvu/kayleyvu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
