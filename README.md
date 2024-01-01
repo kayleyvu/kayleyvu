@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kayleyvu , a product designer 
-- 👀 See my work at kayleytvu.com 
+- 👀 See my work at https://www.kayleytvu.com 
 - 🌱 I’m currently practicing HTML, CSS, Javascript, and Python. 
 - 📫 Reach me at kayleytvu@gmail.com or connect with me at https://www.linkedin.com/in/kayley-vu/ 
 
