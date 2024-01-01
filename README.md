@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @kayleyvu
-- 👀 I’m interested in improving user experience in our daily lives. 
+- 👋 Hi, I’m @kayleyvu , a product designer 
+- 👀 See my work at kayleytvu.com 
 - 🌱 I’m currently practicing HTML, CSS, Javascript, and Python. 
-- 💞️ I’m looking to collaborate on user interfaces and brand identities in fintech, healthcare, and leisure. 
 - 📫 Reach me at kayleytvu@gmail.com or connect with me at https://www.linkedin.com/in/kayley-vu/ 
 
 <!---
