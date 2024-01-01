@@ -5,7 +5,7 @@
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/kayley-vu/)
 &nbsp;
-[![Email](:e-mail:) GitHub](mailto:kayleytvu@gmail.com)
+[![Email](:e-mail:) Email](mailto:kayleytvu@gmail.com)
 
 <!---
 kayleyvu/kayleyvu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
