@@ -6,8 +6,8 @@ I'm a digital product designer :woman_technologist:
 * Take a look at my work on my [portfolio](https://kayleytvu.com).
 
 ## How to reach me 
-Email me at kayleytvu@gmail.com
-[![LinkedIn](https://img.shields.io/badge/Click%20me-Button-blue)](https://www.linkedin.com/in/kayley-vu/)
+Email me at kayleytvu@gmail.com 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5)](https://www.linkedin.com/in/kayley-vu/)
 
 
 
