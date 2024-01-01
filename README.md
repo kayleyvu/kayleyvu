@@ -1,5 +1,5 @@
-# Hi, I’m @kayleyvu
-> I'm a product designer
+# Hi, I’m Kayley
+I'm a product designer
 
 ## How to reach me 
 Take a look at my work on my [portfolio](https://kayleytvu.com).
