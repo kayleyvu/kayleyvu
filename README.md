@@ -1,9 +1,9 @@
-# Hi, I’m Kayley
-I'm a product designer
+# Hi, I’m @kayleyvu
+I'm a digital product designer :woman_technologist:
 
 ## How to reach me 
-Take a look at my work on my [portfolio](https://kayleytvu.com).
-Email me at kayleytvu@gmail.com 
+* Take a look at my work on my [portfolio](https://kayleytvu.com).
+* Email me at kayleytvu@gmail.com 
 
 
 <!---
