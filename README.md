@@ -1,4 +1,4 @@
-# Hi, I’m Kayley 👋
+# 👋 Hi, I’m Kayley 
 I'm a digital product designer :woman_technologist:
 
 ## My work 
