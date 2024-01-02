@@ -8,7 +8,7 @@ I'm a digital product designer :woman_technologist:
 ## How to reach me 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5)](https://www.linkedin.com/in/kayley-vu/)
 &nbsp;
-[![Email](https://img.shields.io/badge/kayleytvu@gmail.com-red)](mailto:kayleytvu@gmail.com)
+[![Email](https://img.shields.io/badge/kayleytvu@gmail.com-EEB3EF)](mailto:kayleytvu@gmail.com)
 
 
 
