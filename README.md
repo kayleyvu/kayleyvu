@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Kayley 
+# ༼ つ ◕_◕ ༽つ Hi, I’m Kayley 
 I'm a digital product designer :woman_technologist:
 
 ## My work 
