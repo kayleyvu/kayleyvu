@@ -6,11 +6,9 @@ I'm a digital product designer :woman_technologist:
 * Take a look at my work on my [portfolio](https://kayleytvu.com).
 
 ## How to reach me 
-Email me at kayleytvu@gmail.com
-&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5)](https://www.linkedin.com/in/kayley-vu/)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-red)](mailto:kayleytvu@gmail.com)
+[![Email](https://img.shields.io/badge/kayleytvu@gmail.com-red)](mailto:kayleytvu@gmail.com)
 
 
 
