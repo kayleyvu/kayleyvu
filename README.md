@@ -7,7 +7,7 @@ I'm a digital product designer :woman_technologist:
 * Check out some games I've worked on with friends [here](https://reneryt6.itch.io/).
 
 ## More
-[![Links]([https://img.shields.io/badge/Links-EEB3EF)]((https://bento.me/kayleyvu))
+[![Links](https://img.shields.io/badge/Links-pink)](https://bento.me/kayleyvu))
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5)](https://www.linkedin.com/in/kayley-vu/)
 &nbsp;
