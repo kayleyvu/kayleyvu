@@ -2,9 +2,9 @@
 I'm a digital product designer :woman_technologist:
 
 ## What I do
-* Take a look at my work on my [portfolio](https://kayleytvu.com).
+* Take a look at my work on my [portfolio](https://kayleytvu.com)
 * I helped make a [mobile app](https://maroonrides.app/) that reached over 16,000 downloads
-* Check out some games I've worked on with friends [here](https://reneryt6.itch.io/).
+* Check out some games I've worked on with friends [here](https://reneryt6.itch.io/)
 
 ## More
 [![Links](https://img.shields.io/badge/Links-pink)](https://bento.me/kayleyvu)
